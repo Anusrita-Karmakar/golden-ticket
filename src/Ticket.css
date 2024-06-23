@@ -1,0 +1,15 @@
+.Ticket{
+    border: 1px solid pink;
+    border-radius: 14px;
+    width: 300px;
+    margin-bottom:15px;
+}
+.ticket-winning{
+    background-color: gold;
+    border-color: goldenrod; 
+    box-shadow: 0 0 10px rgba(255, 215, 0, 0.5); 
+    font-weight: bold; 
+    color: red; 
+    border-radius: 14px;
+    width: 500px;
+}
